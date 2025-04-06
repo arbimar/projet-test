@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Test fonction de recherche weeekipedia</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>36509893-3581-4c34-ae2c-883f77aabf87</testCaseGuid>
+</TestCaseEntity>
